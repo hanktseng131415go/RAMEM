@@ -45,7 +45,7 @@ Another core of this work is proposing a new novel efficient non-local attention
 Finally, the last core of this work is an automatic M-mode echocardiography measurement, AMEM. The algorithm can be seen below with implemented code in [./detect.py](./detect.py). For different types in av and lv, functions of `measure_av` and `measure_lv` in [./detect.py](./detect.py) are designed accordingly.
 
 <p align="center">
-  <img src="./readmematerials/amem.png" width="400"/>
+  <img src="./readmematerials/AMEM.png" width="400"/>
 </p>
 
 ## Weights
