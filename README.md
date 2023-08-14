@@ -1,6 +1,4 @@
-<center>
 # Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels
-</center>
 
 <p align="center">
   <img src="./readmematerials/fig1.png" width="400"/>
