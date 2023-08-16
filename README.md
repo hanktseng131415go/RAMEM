@@ -1,11 +1,12 @@
 # Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels
 
-<p align="center">
+<p align
+="center">
   <img src="./readmematerials/fig1.png" width="400"/>
   <kbd><img src="./readmematerials/fig2.png" width="350" /></kbd>
 </p>
 
-This is the implemented code of [RAMEM](https://arxiv), Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels. This project is modified based on [Yolact_minimal](https://github.com/feiyuhuahuo/Yolact_minimal/tree/master). This project covers:
+This is the implemented code of [RAMEM](https://arxiv.org/pdf/2308.07717.pdf), Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels. This project is modified based on [Yolact_minimal](https://github.com/feiyuhuahuo/Yolact_minimal/tree/master). This project covers:
 
 * **MEIS**, a dataset of M-mode echocardiograms for instance segmentation. 
 * **Panel attention**, a depth-wise local-to-global efficient attention
